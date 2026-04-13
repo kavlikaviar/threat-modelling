@@ -1,0 +1,26 @@
+{
+  "version": "2.6.0",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "kavlikaviar",
+    "description": "A rich oligarch has hired you as an external contractor to help design and secure the Privacy-\nEnhanced Resort and Vacancy Online system that will be used to manage the bookings and logistics\nof a luxury resort on a small, private island in the United States Virgin Islands. The resort is\nfrequently visited by celebrities, politicians, royal family members and other very rich and important\npeople from all over the world. The oligarch wants to guarantee discretion for all of the guests, who\noften register under pseudonyms in the system. Still, it is necessary to keep accurate guest\ninformation in order to manage billing, as well as keeping track of food preferences, personal\nrequests and special room services. Furthermore, it is important to manage surveillance data from\nthe resort premises to detect unwanted intruders. In order to do this, AI-based facial recognition\nshould be used to map people in video recordings with legit guests and staff members in the system.\nMake your own assumptions about how the system should be implemented. You can assume that\nthe system will be deployed in the US and that there must at least be one database somewhere\nstoring guest information, one pseudonymised database and one media database. An external\nidentity service should be used for authentication",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 3,
+    "reviewer": "kavlikaviar",
+    "threatTop": 0
+  }
+}
